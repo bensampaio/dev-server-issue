@@ -1,0 +1,11 @@
+{
+  "name": "dev-server-issue",
+  "version": "1.0.0",
+  "repository": "https://github.com/bensampaio/dev-server-issue.git",
+  "author": "Bruno Sampaio <bens.sampaio@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

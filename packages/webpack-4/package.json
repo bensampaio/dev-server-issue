@@ -1,0 +1,14 @@
+{
+  "name": "webpack-4",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "scripts": {
+    "build": "NODE_ENV=production webpack",
+    "start": "NODE_ENV=development webpack-dev-server"
+  }
+}
